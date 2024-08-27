@@ -6,11 +6,8 @@ Domain:Data Analytics
 Duration:july to september
 
 Overview of the Project
-
 Project:Exploratory Data Analysis(EDA) on Stock Market Analysis and Prediction 
-
 Objective:
-
 Analyze Stock Market Data: The primary objective of this project is to analyze historical stock market data to identify trends and patterns.
 Time Series Prediction: Use machine learning models to predict future stock prices based on historical data.
 Data Visualization: Visualize the trends and predictions to better understand the market dynamics.
